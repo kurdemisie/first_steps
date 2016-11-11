@@ -1,1 +1,1 @@
-my first git txt file
+my first git (or github, I don't know yet) txt file
